@@ -1,7 +1,11 @@
 # eda-demo-order-consumer-agent Project
 
 This project is a simple Quarkus, reactive messaging app to
-get message from a topic using a string serializer.
+get message from a topic using a string serializer and apicurio registry.
+
+## What is in
+
+The app was created with quarkus cli with reactive-messaging-kafka and apicurio-registry-avro extensions.
 
 ## Running the application in dev mode
 
